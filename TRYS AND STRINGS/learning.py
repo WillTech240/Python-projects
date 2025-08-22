@@ -1,7 +1,3 @@
-#IMPORT FUNCTIONS AND HOW TO USE THEM
-# ==============================
-# Demonstration of Python Imports
-# ==============================
 
 # 1. Whole module
 import math
