@@ -9,6 +9,7 @@ print("5. Tan")
 
 choice = input("Enter your choice: ")
 
+
 if choice == "1":
     def square_number():
         number = float(input("Enter your number: "))
